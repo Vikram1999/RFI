@@ -1,5 +1,5 @@
 <?php
 
-include '\etc\hash.txt';
+include 'file:///etc/hash.txt';
 
 ?>
