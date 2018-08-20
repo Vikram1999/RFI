@@ -1,5 +1,1 @@
-<?php
-
-include 'file:///etc/hash.txt';
-
-?>
+<?php include "file:///etc/hash.txt"; ?>
